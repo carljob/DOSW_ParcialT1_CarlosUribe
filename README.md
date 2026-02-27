@@ -34,3 +34,19 @@
 ---
 
 ## Febrero 2026
+
+# Requerimiento Funcional
+
+| codigo | Nombre                                      | patron que puede usar |
+|--------|---------------------------------------------|-----------------------|
+| RF01   | Registrar estructura academica              | Puede usar composite  |
+|RF02 | Calcular promedio ponderado automaticamente | Puede usar strategy   |
+|RF03|Generar listado de estudiantes| -                     |
+
+# Requerimiento No Funcional
+
+| codigo | Nombre                                                |
+|--------|-------------------------------------------------------|
+| RNF01  | La app debe ser responsive y usar colores de la u     |
+| RNF02  | El sistema debe soportar 500 estudiantes concurrentes |
+
