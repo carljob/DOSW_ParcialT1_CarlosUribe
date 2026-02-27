@@ -15,15 +15,20 @@
 ## Herramientas
 
 ### Modelado
-#### Lucidchart
+### Lucidchart  
 
 ![warranty](https://img.shields.io/badge/warranty-Create%20With%20Acces-green)
+
+![img.png](dosc/images/garantias/img.png)
+
 
 
 ### Diseño UI
-#### Figma
+### Figma  
 
 ![warranty](https://img.shields.io/badge/warranty-Create%20With%20Acces-green)
+
+![img_1.png](dosc/images/garantias/img_1.png)
 
 
 ---
