@@ -34,3 +34,7 @@
 ---
 
 ## Febrero 2026
+
+## Punto 1: Diagrama de contexto
+
+![img.png](dosc/images/DiagramaContexto.png)
